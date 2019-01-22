@@ -1,0 +1,6 @@
+.idea/
+venv
+DjGirls/local_settings.py
+*.pyc
+**/pyc
+db.sqlite3
