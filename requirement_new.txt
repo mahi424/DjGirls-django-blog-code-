@@ -62,7 +62,7 @@ pelican==4.0.1
 pelican-youtube==0.2.0
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==4.3.0
+Pillow==6.2.0
 prometheus-client==0.5.0
 prompt-toolkit==1.0.15
 psutil==5.4.2
